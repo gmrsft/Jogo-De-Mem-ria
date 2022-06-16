@@ -1,13 +1,9 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
-
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
-
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
+Salve!
+Esse game foi feito em conjunto com a atividade do bootcamp Dio.me
 
 
-## 🚀 Let's code! 🚀
+Segui o passo a passo do curso e fiz as alterações do meu gosto.
+Coloquei também fotos de um game que gosto o Street Figther
+
+
+
